@@ -137,9 +137,9 @@ function timer() {
     card.className = "card";
     
     //Para mostrar los nombres nombre de pokemones provisoriamente-----------------------------
-    let span = document.createElement("span");
+    /*let span = document.createElement("span");
     span.innerHTML=card.id
-    card.appendChild(span);
+    card.appendChild(span);*/
    //------------------------------------------------------------------------------------------
 
 
