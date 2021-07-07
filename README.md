@@ -66,10 +66,8 @@ _CARACTERISTICAS: El usuario debe poder acceder rápido al juego, y que este sea
 
 Product Backlog
 - crear botones con funcionalidad (juego, instrucciones, entre otras), para que el usuario pueda utilizarlos cuando requiere la información.
-- 
+
   
-
-
 ## 4. Prototipos:
 
 ### Prototipo de baja fidelidad: 
@@ -77,12 +75,9 @@ Se desarrollaron los prototipos de baja fidelidad, considerando las necesidades 
 <img src=src\assets\images\vista1.jpg>
 <img src=src\assets\images\vista2.jpg>
 
-### Prototipo de alta fidelidad:
-Luego creamos el prototipo de alta fidelidad, el cual representa nuestro diseño ideal de la solución, incluyendo más opciones para el usuario. Aquí la visualización del prototipo:
 
-(FOTOS DE LO REALIZADO EN FIGMA)
+[Ver proyecto](https://hilicarolina.github.io/SCL017-memory-match-game/src/)
 
-## Testeo de usabilidad:
-Con nuestro testeo notamos que ciertos aspectos del prototipo no calzaban... (principios de diseño/ HU, entre otras)
+
 
 
