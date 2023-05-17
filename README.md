@@ -63,7 +63,7 @@ _CARACTERÍSTICAS: El usuario debe poder acceder rápido al juego, y que este se
 
 Product Backlog
 - crear botones con funcionalidad (juego, instrucciones, entre otras), para que el usuario pueda utilizarlos cuando requiere la información.
-- 
+
 <a name="item4"></a>
 ### 4. Demo
 A continuación, encontrará un video ilustrativo de cómo se ejecuta la aplicación cuando se decide jugar una partida.
