@@ -69,7 +69,8 @@ Product Backlog
 ### 4. Demo
 A continuación, encontrará un video ilustrativo de cómo se ejecuta la aplicación cuando se decide jugar una partida.
 
-https://github.com/Hilicarolina/SCL017-memory-match-game/assets/14808063/6aabceba-62c3-445d-a8eb-9a32c2e22c6f
+https://github.com/Hilicarolina/SCL017-memory-match-game/assets/14808063/abe2bad1-13f9-426b-8f45-743362493d3a
+
 
 <a name="item5"></a>
 ### 5. Enlace
