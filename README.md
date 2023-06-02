@@ -74,7 +74,7 @@ https://github.com/Hilicarolina/SCL017-memory-match-game/assets/14808063/abe2bad
 
 <a name="item5"></a>
 ### 5. Enlace
-https://hilicarolina.github.io/SCL017-memory-match-game/src/
+https://hc-angulo.github.io/SCL017-memory-match-game/
 
 [Volver a índice](#top)
 
