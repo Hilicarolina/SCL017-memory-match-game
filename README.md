@@ -80,7 +80,7 @@ https://hc-angulo.github.io/memory-match-game/src
 [Volver a índice](#top)
 
 <a name="item6"></a>
-### 5. Herramientas
+### 6. Herramientas
 <p align="left>
  <a href="" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
