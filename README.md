@@ -11,6 +11,7 @@
 - [3. Investigación de usuarios](#item3)
 - [4. Demo](#item4)
 - [5. Enlace](#item5)
+- [6. Herramientas](#item6) 
 
 <a name="item1"></a>
 ### 1. Resumen del proyecto:
@@ -74,8 +75,18 @@ https://github.com/Hilicarolina/SCL017-memory-match-game/assets/14808063/abe2bad
 
 <a name="item5"></a>
 ### 5. Enlace
-https://hc-angulo.github.io/memory-match-game/src
+https://hc-angulo.github.io/memory-match-game/src 
 
 [Volver a índice](#top)
 
-
+<a name="item6"></a>
+### 5. Herramientas
+<p align="left>
+ <a href="" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
+<a href="" target="_blank">            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/></a>
+           </a>
+ <a href="" target="_blank">      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
+ </p>
